@@ -8,3 +8,8 @@
 2. https://www.un.org/
 3. https://opus.nlpl.eu/OpenSubtitles.php
 4. https://conferences.unite.un.org/UNCORPUS/ru/DownloadOverview#download
+
+# Другие ссылки
+***Таблицы с подсчетами результатов*** - https://drive.google.com/drive/folders/1fuzKFFrREmvUqT1HM135odb_WVy9S7Rp?usp=sharing
+
+***Код для кодирования файлов*** - https://colab.research.google.com/drive/1GxQOvZGJ9UBOk29NIQWlNQU35vWL6loT?usp=sharing
